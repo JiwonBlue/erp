@@ -24,6 +24,22 @@
 <details>
 <summary>📐 기획 및 설계 단계 (클릭)</summary>
 
+![1](images/1.jpg)
+![2](images/2.jpg)
+![3](images/3.jpg)
+![4](images/4.jpg)
+![5](images/5.jpg)
+![6](images/6.jpg)
+![7](images/7.jpg)
+![8](images/8.jpg)
+![9](images/9.jpg)
+![10](images/10.jpg)
+![11](images/11.jpg)
+</details>
+
+<details>
+<summary>💻 주요 구현 화면 (클릭)</summary>
+
 ![design_32](images/design_32.jpg)
 ![design_37](images/design_37.jpg)
 ![design_38](images/design_38.jpg)
@@ -43,22 +59,6 @@
 ![design_52](images/design_52.jpg)
 ![design_53](images/design_53.jpg)
 ![design_54](images/design_54.jpg)
-</details>
-
-<details>
-<summary>💻 주요 구현 화면 (클릭)</summary>
-
-![1](images/1.jpg)
-![2](images/2.jpg)
-![3](images/3.jpg)
-![4](images/4.jpg)
-![5](images/5.jpg)
-![6](images/6.jpg)
-![7](images/7.jpg)
-![8](images/8.jpg)
-![9](images/9.jpg)
-![10](images/10.jpg)
-![11](images/11.jpg)
 </details>
 
 ---
