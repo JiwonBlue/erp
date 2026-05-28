@@ -24,23 +24,41 @@
 <details>
 <summary>📐 기획 및 설계 단계 (클릭)</summary>
 
-### 서비스 기획안
-![기획](images/slide5.jpg)
-![ERD](images/slide6.jpg)
-![Usecase](images/slide7.jpg)
+![design_32](images/design_32.jpg)
+![design_37](images/design_37.jpg)
+![design_38](images/design_38.jpg)
+![design_39](images/design_39.jpg)
+![design_40](images/design_40.jpg)
+![design_41](images/design_41.jpg)
+![design_42](images/design_42.jpg)
+![design_43](images/design_43.jpg)
+![design_44](images/design_44.jpg)
+![design_45](images/design_45.jpg)
+![design_46](images/design_46.jpg)
+![design_47](images/design_47.jpg)
+![design_48](images/design_48.jpg)
+![design_49](images/design_49.jpg)
+![design_50](images/design_50.jpg)
+![design_51](images/design_51.jpg)
+![design_52](images/design_52.jpg)
+![design_53](images/design_53.jpg)
+![design_54](images/design_54.jpg)
 </details>
 
 <details>
-<summary>💻 주요 구현 화면 및 로직 (클릭)</summary>
+<summary>💻 주요 구현 화면 (클릭)</summary>
 
-### 메인 화면
-![메인](images/main.jpg)
-
-### 시스템 UI 및 기능
-![구현1](images/slide23.jpg)
-![구현2](images/slide24.jpg)
-![구현3](images/slide25.jpg)
-![구현4](images/slide26.jpg)
+![1](images/1.jpg)
+![2](images/2.jpg)
+![3](images/3.jpg)
+![4](images/4.jpg)
+![5](images/5.jpg)
+![6](images/6.jpg)
+![7](images/7.jpg)
+![8](images/8.jpg)
+![9](images/9.jpg)
+![10](images/10.jpg)
+![11](images/11.jpg)
 </details>
 
 ---
